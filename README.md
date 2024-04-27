@@ -5,3 +5,4 @@ Os Rattatas aparecerão ao redor do mapa, e tentarão te atacar. Capture-os ante
 
 Para disparar pokeballs, aperte espaço ou o botão esquerdo do mouse. A direção do personagem é feita pelo mouse.
 
+https://tutor7374.itch.io/pokemon
