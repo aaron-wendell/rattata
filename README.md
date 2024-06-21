@@ -1,6 +1,6 @@
 # Capture os Rattatas
 
-![jogo](Jogo.jpg)
+![jogo](Jogo.png)
 
 Capture os Rattatas antes que eles atinjam o Ash!
 Os Rattatas aparecerão ao redor do mapa, e tentarão te atacar. Capture-os antes que eles te ataquem.
@@ -11,4 +11,4 @@ Para disparar pokeballs, aperte espaço ou o botão esquerdo do mouse. A direç�
 https://tutor7374.itch.io/pokemon
 
 # Imagem do Database
- ![database](database.jpg)
+ ![database](database.png)
